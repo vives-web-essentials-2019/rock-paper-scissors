@@ -16,7 +16,7 @@ git pull git@github.com:vives-web-essentials-2019/rock-paper-scissors.git master
 
 1. Create a rock, paper, scissors webapplication using HTML, CSS and JavaScript
 2. Publish your application to [netlify.com](https://netlify.com)
-3. Register your free domain name using [name.com/partner/github-students](https://www.name.com/partner/github-students)
+3. Register your free domain name using [name.com/partner/github-students](https://www.name.com/partner/github-students) (demo: [youtube]( https://www.youtube.com/watch?v=eJRHQ5B1yfI&feature=youtu.be))
 4. Setup DNS settings for your rps.yourdomain.com to refer to your netlify application
 
 ## Report
