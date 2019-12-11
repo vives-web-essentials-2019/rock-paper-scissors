@@ -1,0 +1,10 @@
+{
+    "extends": "standard",
+    "overrides": [
+        {
+            "files": "**/*.js",
+            "excludedFiles": "node_modules/",
+            
+        }
+    ],
+}
