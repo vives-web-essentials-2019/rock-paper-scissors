@@ -1,5 +1,7 @@
 # Rock Paper Scissors
 
+![image](../../workflows/Linter/badge.svg)
+
 **Name**: <!-- TODO: fill in your full name here, firstname and lastname -->
 
 **URL**: <!-- TODO: paste the full custom domain URL to the solution of this exercise  -->
